@@ -48,4 +48,9 @@ public class Brand {
     public void setLetter(Character letter) {
         this.letter = letter;
     }
+
+    public void sele(){
+        int i =0;
+
+    }
 }
